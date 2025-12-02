@@ -26,9 +26,9 @@ layers:
   - P
   - BSPC
   - TAB
-  - {t: A, h: LCTRL}
-  - {t: S, h: LEFT ALT}
-  - {t: D, h: LCTRL}
+  - ''
+  - ''
+  - {t: D, h: LEFT CONTROL}
   - {t: F, h: LEFT SHIFT}
   - G
   - H
@@ -54,7 +54,7 @@ layers:
   - LGUI
   - LALT
   - LCTRL
-  - lower
+  - raise
   - RET
   - ENTER
   - SPACE
@@ -115,7 +115,7 @@ layers:
   - '&studio_unlock'
   - {t: ▽, type: trans}
   - {t: ▽, type: trans}
-  - {type: held}
+  - {t: ▽, type: trans}
   - {t: ▽, type: trans}
   - {t: ▽, type: trans}
   - {t: ▽, type: trans}
@@ -176,7 +176,7 @@ layers:
   - {t: ▽, type: trans}
   - {t: ▽, type: trans}
   - {t: ▽, type: trans}
-  - {t: ▽, type: trans}
+  - {type: held}
   - {t: ▽, type: trans}
   - {t: ▽, type: trans}
   - {t: ▽, type: trans}

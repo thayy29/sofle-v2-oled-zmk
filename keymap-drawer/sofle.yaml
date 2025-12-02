@@ -28,7 +28,7 @@ layers:
   - TAB
   - ''
   - ''
-  - {t: D, h: LEFT CONTROL}
+  - {t: D, h: Ctl+LEFT CONTROL}
   - {t: F, h: LEFT SHIFT}
   - G
   - H

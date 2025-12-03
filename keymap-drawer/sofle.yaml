@@ -28,11 +28,11 @@ layers:
   - TAB
   - A
   - S
-  - {t: D, h: LGUI}
+  - D
   - {t: F, h: LEFT SHIFT}
   - G
   - H
-  - J
+  - {t: J, h: RIGHT SHIFT}
   - K
   - L
   - ;
@@ -53,12 +53,12 @@ layers:
   - RSHFT
   - LGUI
   - LALT
-  - LCTRL
-  - raise
+  - lower
+  - {t: ▽, type: trans}
   - RET
   - ENTER
   - SPACE
-  - RCTRL
+  - raise
   - RALT
   - RGUI
   lower:
@@ -114,7 +114,7 @@ layers:
   - {t: ▽, type: trans}
   - '&studio_unlock'
   - {t: ▽, type: trans}
-  - {t: ▽, type: trans}
+  - {type: held}
   - {t: ▽, type: trans}
   - {t: ▽, type: trans}
   - {t: ▽, type: trans}
@@ -176,11 +176,11 @@ layers:
   - {t: ▽, type: trans}
   - {t: ▽, type: trans}
   - {t: ▽, type: trans}
+  - {t: ▽, type: trans}
+  - {t: ▽, type: trans}
+  - {t: ▽, type: trans}
+  - {t: ▽, type: trans}
   - {type: held}
-  - {t: ▽, type: trans}
-  - {t: ▽, type: trans}
-  - {t: ▽, type: trans}
-  - {t: ▽, type: trans}
   - {t: ▽, type: trans}
   - {t: ▽, type: trans}
   adjust:
@@ -236,11 +236,11 @@ layers:
   - ''
   - ''
   - ''
-  - ''
   - {type: held}
   - ''
   - ''
   - ''
   - ''
+  - {type: held}
   - ''
   - ''

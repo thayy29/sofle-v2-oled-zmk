@@ -26,9 +26,9 @@ layers:
   - P
   - BSPC
   - TAB
-  - {t: A, h: LEFT GUI}
-  - {t: S, h: LEFT ALT}
-  - {t: D, h: LEFT CONTROL}
+  - A
+  - S
+  - {t: D, h: LEFT GUI}
   - {t: F, h: LEFT SHIFT}
   - G
   - H

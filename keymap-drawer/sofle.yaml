@@ -28,7 +28,7 @@ layers:
   - TAB
   - A
   - S
-  - {t: D, h: LEFT GUI}
+  - {t: D, h: LGUI}
   - {t: F, h: LEFT SHIFT}
   - G
   - H
